@@ -64,11 +64,3 @@
 </div>
 </div>
 <hr/>
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/RamSanjay08"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RamSanjay08" /></a></p>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-<hr/>
-<h4 align="center">Random dev joke for you! (create your own by clicking here ↓)</h4>
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" width="3000px"/ >
