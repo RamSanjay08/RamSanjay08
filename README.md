@@ -45,22 +45,3 @@
 </div>
 <br/>
 <hr/>
- <h3 align="center">🏆 GitHub Trophies</h3>
-<table align="center">
-  <td>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=RamSanjay08"></p>
-  </td>
-</table>
-<hr>
-<div align=center>
-    <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RamSanjay08&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=RamSanjay08&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br/>
-  <img width=350  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RamSanjay08&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <img width=400  src="https://leetcard.jacoblin.cool/RamSanjay08?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
-</div>
-</div>
-<hr/>
