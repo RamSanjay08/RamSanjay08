@@ -4,21 +4,21 @@
 
 <hr>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ramsanjay!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ram Sanjay!;"/>
 </h1>
   <hr>
-<h3 align="center">Passionate CSE Graduate | Exploring the Boundless World of Technology </h3>
+<h3 align="center">Passionate Frontend Developer | Exploring the Boundless World of Technology </h3>
 <hr>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamSanjay08&label=Profile%20views&color=0e75b6&style=flat" alt="RamSanjay08" /> </p>
 <table>
   <td>
 <h3> 💫 Little Bit More About Me </h3>
-<p>🔭 I'm currently working on Car Rental App Project</p>
-<p>👯 I want to collaborate on Frontend,Backend Projects</p>
-<p>🌱 I'm currently learning Next JS</p>
+<p>🔭 I'm currently working on Car Rental Application</p>
+<p>👯 I want to collaborate on Fullstack Web based Projects</p>
+<p>🌱 I'm currently learning Next.JS</p>
 <p>💬 Ask me about Front End Development,Roadmap for various development roles.</p>
-<p>🤖All of my projects are available at <a href="https://github.com/RamSanjay08?tab=repositories">RamSanjay08.github</a></p>
-<p>⚡ Fun Fact: Headphones can increase the bacteria in your ears. ..</p>
+<p>🤖 All of my projects are available at <a href="https://github.com/RamSanjay08?tab=repositories">RamSanjay08.github</a></p>
+      
     <p align="center">📫 How to reach me?</p>
     <div align="center"> 
   <a href="mailto:ram.sanjay.techie@gmail.com">
