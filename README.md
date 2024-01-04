@@ -1,8 +1,3 @@
-
-![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/
-![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/RamSanjay08/RamSanjay08/assets/120255515/b227805b-baa0-42bc-a16d-1888a3df386c)
-
-<hr>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ram.Sanjay!;"/>
 </h1>
