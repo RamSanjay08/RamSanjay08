@@ -19,15 +19,10 @@
 <p>💬 Ask me about Front End Development,Roadmap for various development roles.</p>
 <p>🤖 All of my projects are available at <a href="https://github.com/RamSanjay08?tab=repositories">RamSanjay08.github</a></p>
       
-<p align="center">📫 How to reach me?</p>
+<p align="center">🌐 How to reach me?</p>
     <div align="center"> 
-  <a href="mailto:ram.sanjay.techie@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/RamSanjay08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
+        
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PY5j7JCXdB@ram_sanjay_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramsanjay8/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ram_sanjay_8)
 
 </div>  
   </td>
