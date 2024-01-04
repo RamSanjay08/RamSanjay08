@@ -19,7 +19,7 @@
 <p>💬 Ask me about Front End Development,Roadmap for various development roles.</p>
 <p>🤖 All of my projects are available at <a href="https://github.com/RamSanjay08?tab=repositories">RamSanjay08.github</a></p>
       
-    <p align="center">📫 How to reach me?</p>
+<p align="center">📫 How to reach me?</p>
     <div align="center"> 
   <a href="mailto:ram.sanjay.techie@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
