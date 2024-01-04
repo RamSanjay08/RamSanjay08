@@ -9,7 +9,6 @@
   <hr>
 <h3 align="center">Passionate Frontend Developer | Exploring the Boundless World of Technology </h3>
 <hr>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamSanjay08&label=Profile%20views&color=0e75b6&style=flat" alt="RamSanjay08" /> </p>
 <table>
   <td>
 <h3> 💫 Little Bit More About Me </h3>
