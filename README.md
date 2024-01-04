@@ -10,8 +10,8 @@
 <p>🔭 I'm currently working on Car Rental Application</p>
 <p>👯 I want to collaborate on Fullstack Web based Projects</p>
 <p>🌱 I'm currently learning Next.JS</p>
-<p>💬 Ask me about Front End Development,Roadmap for various development roles.</p>
-<p>🤖 All of my projects are available at <a href="https://github.com/RamSanjay08?tab=repositories">RamSanjay08.github</a></p>
+<p>💬 Ask me about Front End Development, Roadmap for various development roles.</p>
+<p>✨ All of my projects are available at <a href="https://github.com/RamSanjay08?tab=repositories">RamSanjay08.github</a></p>
       
 <p align="center">🌐 How to reach me?</p>
     <div align="center"> 
