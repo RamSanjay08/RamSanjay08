@@ -32,7 +32,7 @@
 </table>
  <hr/>
  
-<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
+<h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,git,figma" />
