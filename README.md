@@ -29,8 +29,8 @@
 <h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,tailwind,bootstrap,git,figma" />
-    <img src="https://skillicons.dev/icons?i=html,css,mongodb,nodejs,mysql,nextjs,mui,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,mongodb,nodejs,mui" /><br>
 </div>
 <br/>
 <hr/>
