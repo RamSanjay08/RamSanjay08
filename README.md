@@ -7,16 +7,15 @@
 <table>
   <td>
 <h3> 💫 Little Bit More About Me </h3>
-<p>🔭 I'm currently working on Car Rental Application</p>
 <p>👯 I want to collaborate on Fullstack Web based Projects</p>
-<p>🌱 I'm currently learning Next.JS</p>
+<p>🌱 I'm currently learning React Native</p>
 <p>💬 Ask me about Front End Development, Roadmap for various development roles.</p>
 <p>✨ All of my projects are available at <a href="https://github.com/RamSanjay08?tab=repositories">RamSanjay08.github</a></p>
       
 <p align="center">🌐 How to reach me?</p>
     <div align="center"> 
         
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PY5j7JCXdB@ram_sanjay_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ram-sanjay/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/RamSanjay33)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PY5j7JCXdB@ram_sanjay_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ram-sanjay/)
 
 </div>  
   </td>
@@ -29,8 +28,8 @@
 <h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,git,figma" />
-    <img src="https://skillicons.dev/icons?i=html,css,mongodb,nodejs,mui" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,javascript,tailwind,bootstrap,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,mongodb,nodejs,mui,storybook" /><br>
 </div>
 <br/>
 <hr/>
